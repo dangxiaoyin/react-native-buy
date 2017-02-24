@@ -1,0 +1,72 @@
+{
+  "stid": "7206981553244490924",
+  "data": [{
+    "postion": 0,
+    "typeface_color": "#ff9900",
+    "id": 7486,
+    "share": {
+      "message": "一元能吃肯德基",
+      "url": "http://i.meituan.com/firework/kfchanbao"
+    },
+    "title": "一元能吃肯德基",
+    "module": false,
+    "mainTitle": "一元肯德基",
+    "tplurl": "http://www.baidu.com",
+    "type": 1,
+    "imageurl": "http://p0.meituan.net/120.90/deal/5dc3fc168d2116222e0283217e4805ca31072.jpeg@267h_267w_2e_90Q",
+    "solds": 0,
+    "deputytitle": "新用户专享"
+    },
+    {
+    "postion": 0,
+    "typeface_color": "#f6687d",
+    "id": 7486,
+    "share": {
+      "message": "一元能吃肯德基",
+      "url": "http://i.meituan.com/firework/kfchanbao"
+    },
+    "title": "一元能吃肯德基",
+    "module": false,
+    "mainTitle": "4月开春大促",
+    "tplurl": "http://www.baidu.com",
+    "type": 1,
+    "imageurl": "http://p0.meituan.net/120.90/deal/1e76222d7812a3ecf41118c13477c62525894.jpg@90_0_279_279a%7C267h_267w_2e_90q",
+    "solds": 0,
+    "deputytitle": "回馈促销活动"
+    },
+    {
+    "postion": 0,
+    "typeface_color": "#8a2be2",
+    "id": 7486,
+    "share": {
+      "message": "一元能吃肯德基",
+      "url": "http://i.meituan.com/firework/kfchanbao"
+    },
+    "title": "一元能吃肯德基",
+    "module": false,
+    "mainTitle": "一折购鲜花",
+    "tplurl": "http://www.baidu.com",
+    "type": 1,
+    "imageurl": "http://p0.meituan.net/120.90/deal/cce67fbdd25688235f49a397379f261162859.jpg",
+    "solds": 0,
+    "deputytitle": "情人节特惠"
+    },
+    {
+    "postion": 0,
+    "typeface_color": "#6495ed",
+    "id": 7486,
+    "share": {
+      "message": "一元能吃肯德基",
+      "url": "http://i.meituan.com/firework/kfchanbao"
+    },
+    "title": "一元能吃肯德基",
+    "module": false,
+    "mainTitle": "领21元红包",
+    "tplurl": "http://www.baidu.com",
+    "type": 1,
+    "imageurl": "http://p1.meituan.net/120.90/deal/d9114f14de32ef9e9685ffd1679711d149946.jpg",
+    "solds": 0,
+    "deputytitle": "邀请新用户领"
+    }
+  ]
+}

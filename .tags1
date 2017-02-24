@@ -1,0 +1,57 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+tips	/Users/dangxy/Desktop/RN_iOS项目源码/XMGBuy/LocalData/XMG_Home_D5.json	/^  "tips":"全部4家",$/;"	function	line:2
+count	/Users/dangxy/Desktop/RN_iOS项目源码/XMGBuy/LocalData/XMG_Home_D5.json	/^  "count":4,$/;"	function	line:3
+data	/Users/dangxy/Desktop/RN_iOS项目源码/XMGBuy/LocalData/XMG_Home_D5.json	/^  "data":[$/;"	function	line:4
+detailurl	/Users/dangxy/Desktop/RN_iOS项目源码/XMGBuy/LocalData/XMG_Home_D5.json	/^      "detailurl":"https:\/\/www.jd.com",$/;"	function	line:6
+promotionIcon	/Users/dangxy/Desktop/RN_iOS项目源码/XMGBuy/LocalData/XMG_Home_D5.json	/^      "promotionIcon":"",$/;"	function	line:7
+name	/Users/dangxy/Desktop/RN_iOS项目源码/XMGBuy/LocalData/XMG_Home_D5.json	/^      "name":"正佳广场",$/;"	function	line:8
+img	/Users/dangxy/Desktop/RN_iOS项目源码/XMGBuy/LocalData/XMG_Home_D5.json	/^      "img":"sale_1",$/;"	function	line:9
+showtext	/Users/dangxy/Desktop/RN_iOS项目源码/XMGBuy/LocalData/XMG_Home_D5.json	/^      "showtext":{$/;"	function	line:10
+text	/Users/dangxy/Desktop/RN_iOS项目源码/XMGBuy/LocalData/XMG_Home_D5.json	/^        "text":"离我最近",$/;"	function	line:11
+count	/Users/dangxy/Desktop/RN_iOS项目源码/XMGBuy/LocalData/XMG_Home_D5.json	/^        "count":84,$/;"	function	line:12
+color	/Users/dangxy/Desktop/RN_iOS项目源码/XMGBuy/LocalData/XMG_Home_D5.json	/^        "color":""$/;"	function	line:13
+longitude	/Users/dangxy/Desktop/RN_iOS项目源码/XMGBuy/LocalData/XMG_Home_D5.json	/^      "longitude":113.327086,$/;"	function	line:15
+latitude	/Users/dangxy/Desktop/RN_iOS项目源码/XMGBuy/LocalData/XMG_Home_D5.json	/^      "latitude":23.131090,$/;"	function	line:16
+smid	/Users/dangxy/Desktop/RN_iOS项目源码/XMGBuy/LocalData/XMG_Home_D5.json	/^      "smid":4374715,$/;"	function	line:17
+promotionText	/Users/dangxy/Desktop/RN_iOS项目源码/XMGBuy/LocalData/XMG_Home_D5.json	/^      "promotionText":"送福利 商品低至1.5折"$/;"	function	line:18
+detailurl	/Users/dangxy/Desktop/RN_iOS项目源码/XMGBuy/LocalData/XMG_Home_D5.json	/^      "detailurl":"https:\/\/www.jd.com",$/;"	function	line:21
+promotionIcon	/Users/dangxy/Desktop/RN_iOS项目源码/XMGBuy/LocalData/XMG_Home_D5.json	/^      "promotionIcon":"",$/;"	function	line:22
+name	/Users/dangxy/Desktop/RN_iOS项目源码/XMGBuy/LocalData/XMG_Home_D5.json	/^      "name":"凯德广场来尚",$/;"	function	line:23
+img	/Users/dangxy/Desktop/RN_iOS项目源码/XMGBuy/LocalData/XMG_Home_D5.json	/^      "img":"sale_3",$/;"	function	line:24
+showtext	/Users/dangxy/Desktop/RN_iOS项目源码/XMGBuy/LocalData/XMG_Home_D5.json	/^      "showtext":{$/;"	function	line:25
+text	/Users/dangxy/Desktop/RN_iOS项目源码/XMGBuy/LocalData/XMG_Home_D5.json	/^        "text":"离我最近",$/;"	function	line:26
+count	/Users/dangxy/Desktop/RN_iOS项目源码/XMGBuy/LocalData/XMG_Home_D5.json	/^        "count":84,$/;"	function	line:27
+color	/Users/dangxy/Desktop/RN_iOS项目源码/XMGBuy/LocalData/XMG_Home_D5.json	/^        "color":""$/;"	function	line:28
+longitude	/Users/dangxy/Desktop/RN_iOS项目源码/XMGBuy/LocalData/XMG_Home_D5.json	/^      "longitude":113.327086,$/;"	function	line:30
+latitude	/Users/dangxy/Desktop/RN_iOS项目源码/XMGBuy/LocalData/XMG_Home_D5.json	/^      "latitude":23.131090,$/;"	function	line:31
+smid	/Users/dangxy/Desktop/RN_iOS项目源码/XMGBuy/LocalData/XMG_Home_D5.json	/^      "smid":4374715,$/;"	function	line:32
+promotionText	/Users/dangxy/Desktop/RN_iOS项目源码/XMGBuy/LocalData/XMG_Home_D5.json	/^      "promotionText":"送福利 商品低至1.5折"$/;"	function	line:33
+detailurl	/Users/dangxy/Desktop/RN_iOS项目源码/XMGBuy/LocalData/XMG_Home_D5.json	/^      "detailurl":"https:\/\/www.baidu.com",$/;"	function	line:36
+promotionIcon	/Users/dangxy/Desktop/RN_iOS项目源码/XMGBuy/LocalData/XMG_Home_D5.json	/^      "promotionIcon":"",$/;"	function	line:37
+name	/Users/dangxy/Desktop/RN_iOS项目源码/XMGBuy/LocalData/XMG_Home_D5.json	/^      "name":"来又来广场",$/;"	function	line:38
+img	/Users/dangxy/Desktop/RN_iOS项目源码/XMGBuy/LocalData/XMG_Home_D5.json	/^      "img":"sale_0",$/;"	function	line:39
+showtext	/Users/dangxy/Desktop/RN_iOS项目源码/XMGBuy/LocalData/XMG_Home_D5.json	/^      "showtext":{$/;"	function	line:40
+text	/Users/dangxy/Desktop/RN_iOS项目源码/XMGBuy/LocalData/XMG_Home_D5.json	/^        "text":"离我最近",$/;"	function	line:41
+count	/Users/dangxy/Desktop/RN_iOS项目源码/XMGBuy/LocalData/XMG_Home_D5.json	/^        "count":84,$/;"	function	line:42
+color	/Users/dangxy/Desktop/RN_iOS项目源码/XMGBuy/LocalData/XMG_Home_D5.json	/^        "color":""$/;"	function	line:43
+longitude	/Users/dangxy/Desktop/RN_iOS项目源码/XMGBuy/LocalData/XMG_Home_D5.json	/^      "longitude":113.327086,$/;"	function	line:45
+latitude	/Users/dangxy/Desktop/RN_iOS项目源码/XMGBuy/LocalData/XMG_Home_D5.json	/^      "latitude":23.131090,$/;"	function	line:46
+smid	/Users/dangxy/Desktop/RN_iOS项目源码/XMGBuy/LocalData/XMG_Home_D5.json	/^      "smid":4374715,$/;"	function	line:47
+promotionText	/Users/dangxy/Desktop/RN_iOS项目源码/XMGBuy/LocalData/XMG_Home_D5.json	/^      "promotionText":"送福利 商品低至1.5折"$/;"	function	line:48
+detailurl	/Users/dangxy/Desktop/RN_iOS项目源码/XMGBuy/LocalData/XMG_Home_D5.json	/^      "detailurl":"https:\/\/www.baidu.com",$/;"	function	line:51
+promotionIcon	/Users/dangxy/Desktop/RN_iOS项目源码/XMGBuy/LocalData/XMG_Home_D5.json	/^      "promotionIcon":"",$/;"	function	line:52
+name	/Users/dangxy/Desktop/RN_iOS项目源码/XMGBuy/LocalData/XMG_Home_D5.json	/^      "name":"万达西地广场",$/;"	function	line:53
+img	/Users/dangxy/Desktop/RN_iOS项目源码/XMGBuy/LocalData/XMG_Home_D5.json	/^      "img":"sale_3",$/;"	function	line:54
+showtext	/Users/dangxy/Desktop/RN_iOS项目源码/XMGBuy/LocalData/XMG_Home_D5.json	/^      "showtext":{$/;"	function	line:55
+text	/Users/dangxy/Desktop/RN_iOS项目源码/XMGBuy/LocalData/XMG_Home_D5.json	/^        "text":"离我最近",$/;"	function	line:56
+count	/Users/dangxy/Desktop/RN_iOS项目源码/XMGBuy/LocalData/XMG_Home_D5.json	/^        "count":84,$/;"	function	line:57
+color	/Users/dangxy/Desktop/RN_iOS项目源码/XMGBuy/LocalData/XMG_Home_D5.json	/^        "color":""$/;"	function	line:58
+longitude	/Users/dangxy/Desktop/RN_iOS项目源码/XMGBuy/LocalData/XMG_Home_D5.json	/^      "longitude":113.327086,$/;"	function	line:60
+latitude	/Users/dangxy/Desktop/RN_iOS项目源码/XMGBuy/LocalData/XMG_Home_D5.json	/^      "latitude":23.131090,$/;"	function	line:61
+smid	/Users/dangxy/Desktop/RN_iOS项目源码/XMGBuy/LocalData/XMG_Home_D5.json	/^      "smid":4374715,$/;"	function	line:62
+promotionText	/Users/dangxy/Desktop/RN_iOS项目源码/XMGBuy/LocalData/XMG_Home_D5.json	/^      "promotionText":"送福利 商品低至1.5折"$/;"	function	line:63

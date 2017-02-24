@@ -1,0 +1,24 @@
+{
+  "data":[
+    {
+      "shopImage" : "ms",
+      "shopName" : "凯德广场云商",
+      "saleCount":22
+    },
+    {
+      "shopImage" : "ms",
+      "shopName" : "来又来广场",
+      "saleCount":111
+    },
+    {
+      "shopImage" : "ms",
+      "shopName" : "白云万达广场",
+      "saleCount":32
+    },
+    {
+      "shopImage" : "ms",
+      "shopName" : "正佳广场",
+      "saleCount":99
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "dataLeft":[
+    {"img1":"nice_f3", "img2":"http://p1.meituan.net/120.90/deal/cb756f70e5e8c37f96e59c0335182f9033646.jpg@90_0_279_279a%7C267h_267w_2e_90q", "title":"探路者碳烤鱼", "price":"￥9.5", "sale":"再减3元"}
+  ],
+  "dataRight":[
+    {"title" : "天天特价","subTitle" : "特惠不打烊","rightImage" : "nice_6","titleColor" : "orange"},
+    {"title" : "一元吃","subTitle" : "一元吃美食","rightImage" : "nice_7","titleColor" : "red"},
+  ]
+}

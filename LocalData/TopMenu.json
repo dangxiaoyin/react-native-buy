@@ -1,0 +1,110 @@
+{
+  "data": [
+    [
+      {
+        "title" : "美食",
+        "image" : "h_2"
+      },
+      {
+        "title" : "电影",
+        "image" : "h_3"
+      },
+      {
+        "title" : "酒店",
+        "image" : "h_4"
+      },
+      {
+        "title" : "娱乐",
+        "image" : "h_5"
+      },
+      {
+        "title" : "外卖",
+        "image" : "h_6"
+      },
+      {
+        "title" : "购物",
+        "image" : "h_7"
+      },
+      {
+        "title" : "特惠",
+        "image" : "h_8"
+      },
+      {
+        "title" : "医疗",
+        "image" : "h_9"
+      },
+      {
+        "title" : "休闲",
+        "image" : "h_10"
+      },
+      {
+        "title" : "足疗",
+        "image" : "h_11"
+      }
+    ],
+    [
+      {
+        "title" : "门票",
+        "image" : "h_12"
+      },
+      {
+        "title" : "美甲",
+        "image" : "h_13"
+      },
+      {
+        "title" : "抢购",
+        "image" : "h_14"
+      },
+      {
+        "title" : "儿童",
+        "image" : "h_15"
+      },
+      {
+        "title" : "运动",
+        "image" : "h_7"
+      },
+      {
+        "title" : "户外",
+        "image" : "h_8"
+      },
+      {
+        "title" : "直播",
+        "image" : "h_9"
+      },
+      {
+        "title" : "达人",
+        "image" : "h_10"
+      },
+      {
+        "title" : "休闲",
+        "image" : "h_2"
+      },
+      {
+        "title" : "会所",
+        "image" : "h_3"
+      }
+    ]
+  ],
+  "bottomData":[
+    {
+      "title" : "订机票",
+      "subTitle" : "一折票马上抢",
+      "hotImage" : "h_10"
+    },
+    {
+      "title" : "温泉",
+      "subTitle" : "一折票马上抢",
+      "hotImage" : "h_10"
+    },
+    {
+      "title" : "火锅",
+      "subTitle" : "一折票马上抢",
+      "hotImage" : "h_10"
+    },
+    {
+      "title" : "订机票",
+      "subTitle" : "一折票马上抢",
+      "hotImage" : "h_10"
+    }
+  ]
+}
